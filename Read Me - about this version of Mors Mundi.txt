@@ -1,0 +1,10 @@
+This is an incomplete version of the game called Mors Mundi ("Death of the world"). 
+The goal is to destroy the other players: one can kill the whole population, destroy the planet or throw the game by destroying the whole solar system. All effects should include visible animations (e.g. creating a black hole and throwing a player into it).
+Players accumulate various resources (e.g. gold, exomatter, energy level) over time. They do that by collecting and playing cards at the right time. 
+Each player has a planet and moves in a circle around the Sun by stepping on various coloured fields. On each field, something happens and the population increases or decreases automatically based on the population growth rate. 
+There are different cards in the game. Players start by choosing Level 1 Cards first, which add the basic resources and symbolise the most primitive technologies (fire, wheel etc.). Level 2 Cards are based on our present state of society and include technologies like satellites and missiles. Level 3 Cards are meant to deal fatal blows and e.g. throw a player into the black hole, wormhole or the Sun.
+Another type of cards are "Bargain cards" - these cards are created randomly based on pieces of texts and various parameters. Players can accept a bargain and will lose something in order to gain something.
+
+This is the initial version of the game. Not all functionalities have been implemented. There are various bugs.
+It includes various free to use sources like the Universe skybox visible in the background as well as fonts.
+The pictures visible on cards are just placeholders found online and meant only for the first version of the game. 
